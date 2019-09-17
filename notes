@@ -1,0 +1,23 @@
+## Candidate Models:
+* Logistic Regression
+* Linear probability model
+* SVM classifier
+* Neural Network
+
+## TODO:
+* handle missing better
+* principle components
+
+## Pre-processing
+* remove variables with missing percent greater then 30%
+* remove low variance variables
+* collapse device info
+* collapsew browser version
+* replace missing values in factors in training data with level "missing"
+* one-hot encode factors
+* remove original factors after one-hot encoding
+* Replace missing values in training data with column means
+* replace missing in test data with mean from training data
+* replace missing values in factors in testing data with level "missing"
+
+

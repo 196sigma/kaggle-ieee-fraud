@@ -1,0 +1,14 @@
+0820_122316 | naive baseline
+0820_122320 | naive baseline
+0820_122639 | naive baseline
+0911_135219 | naive baseline
+0912_1568307409 | lightgbm model without FE0912_1568307752.csv | lightgbm model without FE
+0912_1568307774 | lightgbm model without FE
+0912_1568307854 | lightgbm model without FE
+0915_212747 | Baseline neural network model
+0915_223559 | Baseline neural network model
+0915_224813 | Baseline neural network model
+0915_230429 | Baseline neural network model
+0915_231137 | Advanced neural network model
+0916_102645 | Baseline neural network model
+0916_173526 | Advanced neural network model with all features
